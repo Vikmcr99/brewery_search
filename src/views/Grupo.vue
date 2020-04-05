@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <section id="team" class="pb-5">
     <div class="container">
-        <h5 class="display-3 text-center">O Grupo</h5><br>
+        <h5 class="display-3 text-center"><b>O Grupo</b></h5><br>
         <div class="row">
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
@@ -22,26 +22,16 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Carlos Williams</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Carlos Wiliams de Souza Ferreira - carlos.ferreira@al.infnet.edu.br</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/carloswiliams.ferreira">
+                                                <i class="fa fa-facebook-square"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-linkedin"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/carlos-ferreira-1599044b/">
+                                                <i class="fa fa-linkedin-square"></i>
                                             </a>
                                         </li>
                                     </ul>
@@ -70,26 +60,16 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Eloy Barbosa</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Eloy Francisco Barbosa - eloy.barbosa@al.infnet.edu.br</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/eloy.kamikaze">
+                                                <i class="fa fa-facebook-square"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/eloy-barbosa-082180134/">
+                                                <i class="fa fa-linkedin-square"></i>
                                             </a>
                                         </li>
                                     </ul>
@@ -118,26 +98,11 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Henrique Milioli</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Henrique Milioli Francisco - henrique.francisco@al.infnet.edu.br</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/henrique-milioli-francisco-2a657016b/">
+                                                <i class="fa fa-linkedin-square"></i>
                                             </a>
                                         </li>
                                     </ul>
@@ -166,26 +131,16 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Victor Robinson</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <p class="card-text">Victor Manuel Coelho Robinson - victor.robinson@al.infnet.edu.br</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.facebook.com/victormanuel.robinson">
+                                                <i class="fa fa-facebook-square"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-google"></i>
+                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.linkedin.com/in/victor-manuel-robinson-63857016b/">
+                                                <i class="fa fa-linkedin-square"></i>
                                             </a>
                                         </li>
                                     </ul>
